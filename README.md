@@ -1,9 +1,7 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=2000&pause=500&color=F7715E&vCenter=true&multiline=true&random=false&width=435&height=150&lines=Welcome!+My+name+is;David+Nava;A+Fronted+Developer)](https://git.io/typing-svg)
 
-# David Nava
-
-**`(Frontend/Developer/)`**
-
-Hey there! 👋 I'm **`(David)`**, a self-taught frontend developer with a passion for crafting engaging user experiences. I thrive on problem-solving and enjoy diving into the intricacies of React to build robust and dynamic web applications.
+---
+Hey there! 👋 I'm a self-taught frontend developer with a passion for crafting engaging user experiences. I thrive on problem-solving and enjoy diving into the intricacies of React to build robust and dynamic web applications.
 
 I have a keen eye for design and believe that combining my artistic sensibilities with my technical skills allows me to create visually stunning and functional interfaces.
 
