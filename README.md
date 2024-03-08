@@ -28,4 +28,4 @@ Let's connect and build something awesome together! 🚀
 
 #
 
-  ![@dnava24 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=dnava24)
+  ![@dnava24 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=navacodes)
