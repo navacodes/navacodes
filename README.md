@@ -11,7 +11,9 @@ Let's connect and build something awesome together! 🚀
 
 ---
 
-### 🧰 Languages and Tools
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=9CBDC4&random=false&width=435&lines=Languages+and+Tools)](https://git.io/typing-svg)
+
+###
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
