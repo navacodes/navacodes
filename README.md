@@ -1,6 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=2000&pause=500&color=ee7d83&vCenter=true&multiline=true&random=false&width=435&height=150&lines=Welcome!+My+name+is;David+Nava;A+Fronted+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=2000&pause=500&color=ee7d83&vCenter=true&multiline=true&random=false&width=435&height=150&lines=Welcome+To+My+Github+Space!;+My+name+is+David+Nava;A+Fronted+Developer)](https://git.io/typing-svg)
+#
+<img src="room.JPG" alt="room" width="75%"/>
 
----
 Hey there! 👋 I'm a self-taught frontend developer with a passion for crafting engaging user experiences. I thrive on problem-solving and enjoy diving into the intricacies of React to build robust and dynamic web applications.
 
 I have a keen eye for design and believe that combining my artistic sensibilities with my technical skills allows me to create visually stunning and functional interfaces.
@@ -34,7 +35,7 @@ Let's connect and build something awesome together! 🚀
 
 
 #
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=2000&color=95fcd1&random=false&width=435&lines=S+T+A+T+S)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=2000&color=95fcd1&random=false&width=435&lines=S+T+A+T+S;)](https://git.io/typing-svg)
 
 
 
