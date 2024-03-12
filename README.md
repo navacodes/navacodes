@@ -11,7 +11,7 @@ Let's connect and build something awesome together! 🚀
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=2000&color=f1d99e&random=false&width=435&lines=Languages+and+Tools)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=2000&color=95fcd1&random=false&width=435&lines=Languages+and+Tools)](https://git.io/typing-svg)
 
 ###
 
@@ -34,7 +34,7 @@ Let's connect and build something awesome together! 🚀
 
 
 #
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=2000&color=F7715E&random=false&width=435&lines=S+T+A+T+S)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=2000&color=95fcd1&random=false&width=435&lines=S+T+A+T+S)](https://git.io/typing-svg)
 
 
 
