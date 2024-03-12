@@ -4,11 +4,11 @@
 #
 <img src="room.JPG" alt="room" width="75%"/>
 
-Hey there! 👋 I'm a self-taught frontend developer with a passion for crafting engaging user experiences. I thrive on problem-solving and enjoy diving into the intricacies of React to build robust and dynamic web applications.
+Hey there! 👋 I'm a self-taught frontend developer with a passion for crafting engaging user experiences. I enjoy problem-solving and diving into the intricacies of React to build dynamic web applications.
 
-I have a keen eye for design and believe that combining my artistic sensibilities with my technical skills allows me to create visually stunning and functional interfaces.
+When I'm not coding, you can find me exploring the latest trends in web development, experimenting with new libraries and frameworks, sketching out ideas for my next project or simply just enjoing a cup of joe with a good show.
 
-When I'm not coding, you can find me exploring the latest trends in web development, experimenting with new libraries and frameworks, or sketching out ideas for my next project.
+Outside of tech I enjoy spending time with my two dogs, watching sport , listening to music, and playing video games..
 
 Let's connect and build something awesome together! <img src="https://media.tenor.com/8jAJQds1Kx0AAAAi/pikachu.gif" width="70px" /> <img src="https://www.codedex.io/api/petStatus?user=navacodes" width="70px"/>   
 #
