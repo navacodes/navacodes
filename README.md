@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=2000&pause=500&color=e8ab9c&vCenter=true&multiline=true&random=false&width=435&height=150&lines=Welcome+To+My+Github+Space!;+My+name+is+David+Nava;A+Fronted+Developer)](https://git.io/typing-svg)
 
-
-#
 <img src="room.JPG" alt="room" width="75%"/>
 
 Hey there! 👋 I'm a self-taught frontend developer with a passion for crafting engaging user experiences. I enjoy problem-solving and diving into the intricacies of React to build dynamic web applications.
