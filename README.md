@@ -30,7 +30,7 @@ Let's connect and build something awesome together! <img src="https://media.teno
 
 
 #
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=95fcd1&random=false&width=435&lines=S+T+A+T+S;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=e8ab9c&random=false&width=435&lines=S+T+A+T+S;)](https://git.io/typing-svg)
 
 
 
