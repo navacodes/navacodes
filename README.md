@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=2000&pause=500&color=ee7d83&vCenter=true&multiline=true&random=false&width=435&height=150&lines=Welcome+To+My+Github+Space!;+My+name+is+David+Nava;A+Fronted+Developer)](https://git.io/typing-svg)
-<img src="https://www.codedex.io/api/petStatus?user=navacodes" width="70px"/>   
+
 
 #
 <img src="room.JPG" alt="room" width="75%"/>
@@ -10,7 +10,7 @@ I have a keen eye for design and believe that combining my artistic sensibilitie
 
 When I'm not coding, you can find me exploring the latest trends in web development, experimenting with new libraries and frameworks, or sketching out ideas for my next project.
 
-Let's connect and build something awesome together! <img src="https://www.codedex.io/_next/image?url=%2Fimages%2Fboy.gif&w=128&q=75" />
+Let's connect and build something awesome together! <img src="https://media.tenor.com/8jAJQds1Kx0AAAAi/pikachu.gif" width="70px" /> <img src="https://www.codedex.io/api/petStatus?user=navacodes" width="70px"/>   
 #
 
 
@@ -29,6 +29,7 @@ Let's connect and build something awesome together! <img src="https://www.codede
 <img  align="left" alt="tailwindcss" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 <img  align="left" alt="tailwindcss" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
 <img  align="left" alt="tailwindcss" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" />
+<img src="https://media.tenor.com/BYP_dKhASRcAAAAi/off-white-jordan.gif" width="60px"/>
           
 
 <br />
