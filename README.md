@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=2000&pause=500&color=ee7d83&vCenter=true&multiline=true&random=false&width=435&height=150&lines=Welcome+To+My+Github+Space!;+My+name+is+David+Nava;A+Fronted+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=2000&pause=500&color=e8ab9c&vCenter=true&multiline=true&random=false&width=435&height=150&lines=Welcome+To+My+Github+Space!;+My+name+is+David+Nava;A+Fronted+Developer)](https://git.io/typing-svg)
 
 
 #
