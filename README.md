@@ -31,3 +31,29 @@ Let's connect and build something awesome together! 🚀
 #
 
   ![@dnava24 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=navacodes)
+
+
+#
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=2000&color=F7715E&random=false&width=435&lines=S+T+A+T+S)](https://git.io/typing-svg)
+
+
+
+<br/>
+
+<p align="left">
+  <a href="https://github.com/navacodes">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=navacodes&theme=moonlight&border=9CBDC4&background=0D1117" alt="David's GitHub streak"/>
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/navacodes">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NavaCodes&theme=moonlight" alt="David Nava's GitHub Contribution"/>
+  </a>
+</p>
+
+<a> 
+    <a href="https://github.com/navacodes"><img alt="David Nava's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=navacodes&show_icons=true&count_private=true&theme=dracula&border_color=9CBDC4&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/navacodes"><img alt="David Nava's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=navacodes&langs_count=8&layout=compact&theme=dracula&border_color=9CBDC4&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
