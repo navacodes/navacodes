@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=2000&pause=500&color=F7715E&vCenter=true&multiline=true&random=false&width=435&height=150&lines=Welcome!+My+name+is;David+Nava;A+Fronted+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=2000&pause=500&color=ee7d83&vCenter=true&multiline=true&random=false&width=435&height=150&lines=Welcome!+My+name+is;David+Nava;A+Fronted+Developer)](https://git.io/typing-svg)
 
 ---
 Hey there! 👋 I'm a self-taught frontend developer with a passion for crafting engaging user experiences. I thrive on problem-solving and enjoy diving into the intricacies of React to build robust and dynamic web applications.
@@ -11,7 +11,7 @@ Let's connect and build something awesome together! 🚀
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=2000&color=9CBDC4&random=false&width=435&lines=Languages+and+Tools)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=2000&color=f1d99e&random=false&width=435&lines=Languages+and+Tools)](https://git.io/typing-svg)
 
 ###
 
@@ -42,7 +42,7 @@ Let's connect and build something awesome together! 🚀
 
 <p align="left">
   <a href="https://github.com/navacodes">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=navacodes&theme=moonlight&border=9CBDC4&background=0D1117" alt="David's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=NavaCodes&theme=aura-dark&hide_border=true&border_radius=5.3&bg_color=222435)(https://git.io/streak-stats)" alt="David's GitHub streak"/>
   </a>
 </p>
 
@@ -53,7 +53,6 @@ Let's connect and build something awesome together! 🚀
 </p>
 
 <a> 
-    <a href="https://github.com/navacodes"><img alt="David Nava's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=navacodes&show_icons=true&count_private=true&theme=dracula&border_color=9CBDC4&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/navacodes"><img alt="David Nava's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=navacodes&langs_count=8&layout=compact&theme=dracula&border_color=9CBDC4&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/navacodes"><img alt="David Nava's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=navacodes&show_icons=true&count_private=true&theme=aura_dark&hide_border=true&bg_color=222435&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
