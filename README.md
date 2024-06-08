@@ -8,7 +8,7 @@ When I'm not coding, you can find me exploring the latest trends in web developm
 
 Outside of tech I enjoy spending time with my two dogs, watching sport , listening to music, and playing video games..
 
-Let's connect and build something awesome together! <img src="https://media.tenor.com/8jAJQds1Kx0AAAAi/pikachu.gif" width="70px" /> <img src="https://www.codedex.io/api/petStatus?user=navacodes" width="70px"/>   
+Let's connect and build something awesome together! <img src="https://media.tenor.com/8jAJQds1Kx0AAAAi/pikachu.gif" width="70px" />
 #
 
 
@@ -18,7 +18,7 @@ Let's connect and build something awesome together! <img src="https://media.teno
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,astro,vite,bootstrap,tailwind,github,npm,figma,notion,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nextjs,astro,prisma,supabase,vite,bootstrap,tailwind,github,npm,figma,notion,vscode)](https://skillicons.dev)
 <img src="https://media.tenor.com/BYP_dKhASRcAAAAi/off-white-jordan.gif" width="60px"/>
           
 
