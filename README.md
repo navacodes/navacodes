@@ -18,7 +18,7 @@ Let's connect and build something awesome together! <img src="https://media.teno
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nextjs,astro,prisma,supabase,vite,bootstrap,tailwind,github,npm,figma,notion,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nextjs,golang,astro,prisma,supabase,vite,tailwind,github,npm,figma,notion)](https://skillicons.dev)
 <img src="https://media.tenor.com/BYP_dKhASRcAAAAi/off-white-jordan.gif" width="60px"/>
           
 
